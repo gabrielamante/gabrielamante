@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [bit.ly/PortfolioBIProjects](bit.ly/PortfolioBIProjects)
 
-- 📝 My certificates are placed in this repo: [bit.ly/certificatesRepoGabriel](bit.ly/certificatesRepoGabriel)
+- 📝 My certificates are placed in this repo: [bit.ly/RepositorioCertificadosGabriel](bit.ly/RepositorioCertificadosGabriel)
 
 - 📫 How to reach me **gabriel.amante@gmail.com**
 
